@@ -4,7 +4,6 @@ Performing analysis on Kickstarter data to uncover trends to assist play writer 
 ## About the data
 --
 Obtained 4114 Kickstarters data reported from 21 countries between 2009 and 2017 with 41 total fundraising categories/subcategories
---
 ## Findings of the analysis:
 * There were 525 kickstasters in the theater catergory in the US. This was 58% of the total theater fundraising in the US
 * The Month that launched the most successful Kickstarter campaigns was May.However, January, June, July and October all had roughly the same number of failed campaigns launched.

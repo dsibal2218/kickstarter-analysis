@@ -11,10 +11,13 @@ The dataset included 4114 kickstarter campaigns from 21 countries with launch da
 
 ### Analysis of Outcomes Based on Launch Date
 
+ ![image](https://user-images.githubusercontent.com/98235755/155796348-fab2e91b-6f65-4965-a437-7692724d3d2d.png)
+
 The result of the outcome based on launch date seems to be showing some seasonality. May-Jul being the months with the most theater kickstarters launched, with May having the most successful theater Kickstarter and had the least amount of failure rate (31% of total launched). Additionally, Nov and Dec had the least amount of kickstarter campaigns launched with December having almost the same amount of successful and failed launched kickstarter campaigns. 
- 
 
 ### Analysis of Outcomes Based on Goals
+
+![image](https://user-images.githubusercontent.com/98235755/155796406-4dd118be-58e1-47c7-a3e1-dab73218ec50.png)
 
 The analysis on the outcome based on goals shows that kickstarters with goal of less than $1,000 had the most success, while those with goals of $45,000 to $50,000 had 100% failure rate. 
 
